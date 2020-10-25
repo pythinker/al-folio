@@ -17,14 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 Machine Learning Researcher @ MAPNA Group <br/><br/>
 
-I’m a machine learning researcher with backgrounds in physics and electrical engineering. These days, I work as a ML researcher at MAPNA Group. I have 8+ years experience studying and developing diverse machine learning algorithms with applications in natural language processing, anomaly detection and speech processing. I’m Enthusiastic about the mathematics behind machine learning and passionate about open-source technologies especially Linux, python and R markdown (by which I’ve built this website!).
+<p align="justify">
+Welcome! I’m Mostafa, a machine learning enthusiast. I completed my BSc and MSc both in electrical engineering at Amirkabir University of Technology in 2011 and 2013. I won the bronze medal in National Physics Olympiad, when I was in high school. I'm ranked 168th among 90,000 members in <a href="https://datascience.stackexchange.com/users/51209">Data Science Stack Exchange</a>. My research interests center around deep generative models and representation learning. More specifically, I've focused on Variational AutoEncoders and GANs and their application in dimensionality reduction and domain adaptation. for more details, see my <a href="/bio">bio</a>.
+</p>
 
-**Research Interests:**\
-Deep Learning - Representation Learning - Variational Inference
-
-I hold a MS degree in communication systems from Amirkabir University of Technology. During my MS program, I dealt with different aspects of speech processing, including voice conversion, speech recognition and speaker verification. I’ve published several academic papers about voice conversion. My first experience of machine learning in industry was natural language processing but I changed my path soon and it’s about three years that I work as a machine learning researcher for the condition monitoring of power plants.
-<br/><br/>
+<br/>
 
 ---
-
-
