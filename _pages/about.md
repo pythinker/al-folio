@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Data Scientist & ML Researcher @ [bama.ir](https://bama.ir/) <br/><br/>
 
 <p align="justify">
-Welcome! I’m Mostafa, a machine learning researcher and practitioner. I completed my BSc and MSc both in electrical engineering at Amirkabir University of Technology in 2011 and 2013. I won the bronze medal in National Physics Olympiad, when I was in high school. I'm ranked 177th among 96,000 members in <a href="https://datascience.stackexchange.com/users/51209">Data Science Stack Exchange</a>. My research interests center around deep generative models and representation learning. More specifically, I've focused on Variational AutoEncoders and GANs and their application in dimensionality reduction and domain adaptation. for more details, see my <a href="/bio">bio</a>.
+Welcome! I’m Mostafa, a machine learning enthusiast with backgrounds in physics and electrical engineering. I'm always ready to tackle challenging prolems in the data world. Ranked 177th among 100,000 members in <a href="https://datascience.stackexchange.com/users/51209">Data Science Stack Exchange</a>, I'm also an active member of the data science community. My research interests center around deep learning, representation learning and transfer learning. Feel free to contact me. For more details, see my <a href="../assets/pdf/CV_Mostafa_Ghorbandoost.pdf">CV</a> and <a href="/bio">bio</a>.
 </p>
 
 <br/>
